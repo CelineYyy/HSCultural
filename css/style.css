@@ -1,0 +1,17 @@
+/*----- 全局样式 -----*/
+*{margin: 0;padding: 0;font-size: 12px;color: #333;}
+ul li,ol li{list-style: none;}
+a{text-decoration: none;}
+/*----- 首页 -----*/
+.index .header{width: 1200px;height: 197px;margin: 0 auto;}
+.index .header .logo{text-align: center;padding-top: 18px;}
+.index .header .nav {width: 480px;height: 80px;margin: 0 auto;}
+.index .header .nav ul li{width: 56px;margin: 0 20px;float: left;line-height: 80px;text-align: center;}
+.index .header .nav ul li a{font-size: 14px;}
+
+.index .introduction{position: relative;}
+.index .introduction .bg-red{background-color: #ea5858;width: 50%;height: 1084px;}
+.index .introduction .bg-plane{background-color: #ea5858;background: url(../img/plane.png) no-repeat;width: 1278px;height: 1084px;margin-left: -284px;position: absolute;top:0;}
+.index .introduction .introduction-box{width: 1200px;height: 1084px;position: absolute;top: 0;left: 50%;margin-left: -600px;}
+.index .introduction .introduction-box .info-box{position: relative;height: 1084px;}
+.index .introduction .introduction-box .info-box .title{position: absolute;top: 360px;left: 0;color: #fff;font-size: 20px;}
