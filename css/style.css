@@ -8,6 +8,8 @@ a{text-decoration: none;}
 .index .header .nav {width: 480px;height: 80px;margin: 0 auto;}
 .index .header .nav ul li{width: 56px;margin: 0 20px;float: left;line-height: 80px;text-align: center;}
 .index .header .nav ul li a{font-size: 14px;}
+.index .header .nav ul li a:link,.index .header .nav ul li a:visited{color:#333;}
+.index .header .nav ul li a:hover,.index .header .nav ul li a:active{color:red;}
 
 .index .introduction{position: relative;}
 .index .introduction .bg-red{background-color: #ea5858;width: 50%;height: 1084px;}
@@ -15,3 +17,10 @@ a{text-decoration: none;}
 .index .introduction .introduction-box{width: 1200px;height: 1084px;position: absolute;top: 0;left: 50%;margin-left: -600px;}
 .index .introduction .introduction-box .info-box{position: relative;height: 1084px;}
 .index .introduction .introduction-box .info-box .title{position: absolute;top: 360px;left: 0;color: #fff;font-size: 20px;}
+
+.index .course{width: 1200px;height: 1390px;margin: 0 auto;padding-top: 110px;}
+.index .course .course-box ul li{width: 240px;height: 186px;float: left;padding: 0 80px 50px;}
+.index .course .course-box .course-item .course-icon{width: 80px;height: 75px;margin: 0 auto;}
+.index .course .course-box .course-item .course-title{text-align: center;font-size: 14px;}
+.index .course .course-box .course-item .course-desc{text-align: center;}
+.index .course .course-box .course-item .course-more{text-align: center;}
