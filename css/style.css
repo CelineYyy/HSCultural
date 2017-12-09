@@ -1,7 +1,9 @@
 /*----- 全局样式 -----*/
 *{margin: 0;padding: 0;font-size: 12px;color: #333;}
+body{overflow-x: hidden;}
 ul li,ol li{list-style: none;}
 a{text-decoration: none;}
+.clear{clear: both;}
 /*----- 首页 -----*/
 .index .header{width: 1200px;height: 197px;margin: 0 auto;}
 .index .header .logo{text-align: center;padding-top: 18px;}
@@ -24,3 +26,24 @@ a{text-decoration: none;}
 .index .course .course-box .course-item .course-title{text-align: center;font-size: 14px;}
 .index .course .course-box .course-item .course-desc{text-align: center;}
 .index .course .course-box .course-item .course-more{text-align: center;}
+.index .course .content-box{width: 1200px;height: 889px;position: relative;}
+.index .course .content-box .desc-left{width: 558px;padding-top: 238px;padding-left: 34px;}
+.index .course .content-box .desc-left h2{font-size: 40px;color: #ea5858;font-weight: normal;}
+.index .course .content-box .desc-left .heshi-text{width: 416px;height: 80px;font-size: 18px;color: #333;margin-top: 60px;}
+.index .course .content-box .desc-left .button{width: 118px;height: 48px;border-radius:30px;background-color:#ea5858;text-align: center;line-height: 48px;margin-top: 20px;font-size: 20px;color: white;}
+.index .course .content-box .lion-right{position: absolute;bottom: 0;right: -118px;}
+
+.index .news{width: 1200px;height: 898px;padding-top: 150px;margin: 0 auto;}
+.index .news .news-center{font-size: 48px;color: #ea5858;margin-top: 30px;}
+.index .news .news-pic ul li{float: left;padding: 0 12px;margin-top: 100px;}
+.index .news .more-news{width: 118px;height: 48px;border-radius:30px;background-color:#ea5858;text-align: center;line-height: 48px;margin: 60px auto;font-size: 20px;color: white; }
+
+.index .contact{position: relative;width: 1200px;margin: 0 auto;}
+.index .contact .bg{display: block;position: absolute;top: -70px;0;left: 50%;margin-left: -960px;z-index: -1;}
+.index .contact .contact_us{font-size: 48px;color: #ea5858;margin-top: 30px;color: #fff;}
+.index .contact .bg_box{width: 1000px;height: 536px;background-color: rgba(0,0,0,0.5);margin: 90px auto;padding: 68px 74px;}
+.index .contact .bg_box .hswh-title{font-size: 30px;color: #fff;text-align: center;}
+.index .contact .bg_box .add, .post{font-size: 20px;color: #fff;margin: 20px 0;}
+.index .contact .bg_box .tel{width: 580px;height: 56px;}
+.index .contact .bg_box .tel .icon{float: left;}
+.index .contact .bg_box .tel .number{float: left;color: #fff;font-size: 48px;}
