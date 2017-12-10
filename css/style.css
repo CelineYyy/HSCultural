@@ -39,11 +39,16 @@ a{text-decoration: none;}
 .index .news .more-news{width: 118px;height: 48px;border-radius:30px;background-color:#ea5858;text-align: center;line-height: 48px;margin: 60px auto;font-size: 20px;color: white; }
 
 .index .contact{position: relative;width: 1200px;margin: 0 auto;}
+.index .contact .line-left{width: 192px;height: 14px;background-color:#ea5858;position: absolute;top: 320px;}
+.index .contact .line-right{width: 14px;height: 120px;background-color:#ea5858;position: absolute;top: 880px;right: 150px;}
 .index .contact .bg{display: block;position: absolute;top: -70px;0;left: 50%;margin-left: -960px;z-index: -1;}
 .index .contact .contact_us{font-size: 48px;color: #ea5858;margin-top: 30px;color: #fff;}
 .index .contact .bg_box{width: 1000px;height: 536px;background-color: rgba(0,0,0,0.5);margin: 90px auto;padding: 68px 74px;}
-.index .contact .bg_box .hswh-title{font-size: 30px;color: #fff;text-align: center;}
-.index .contact .bg_box .add, .post{font-size: 20px;color: #fff;margin: 20px 0;}
-.index .contact .bg_box .tel{width: 580px;height: 56px;}
+.index .contact .bg_box .hswh-title{font-size: 48px;color: #fff;text-align: center;}
+.index .contact .bg_box .add, .post{font-size: 26px;color: #fff;margin: 20px 0;}
+.index .contact .bg_box .tel{width: 380px;height: 56px;margin-top: 40px;}
 .index .contact .bg_box .tel .icon{float: left;}
-.index .contact .bg_box .tel .number{float: left;color: #fff;font-size: 48px;}
+.index .contact .bg_box .tel .number{float: right;color: #fff;font-size: 40px;}
+.index .contact .bg_box .click-more{width: 178px;height: 26px;float: right;margin-top: 40px;margin-right: 170px;}
+.index .contact .bg_box .click-more .click-text{font-size: 24px;line-height: 26px;color: #fff;float: left;}
+.index .contact .bg_box .click-more .click-icon{float: right;}
