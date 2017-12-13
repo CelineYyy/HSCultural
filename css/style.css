@@ -41,7 +41,7 @@ a{text-decoration: none;}
 .index .contact{position: relative;width: 1200px;margin: 0 auto;}
 .index .contact .line-left{width: 192px;height: 14px;background-color:#ea5858;position: absolute;top: 320px;}
 .index .contact .line-right{width: 14px;height: 120px;background-color:#ea5858;position: absolute;top: 880px;right: 150px;}
-.index .contact .bg{display: block;position: absolute;top: -70px;0;left: 50%;margin-left: -960px;z-index: -1;}
+.index .contact .bg{display: block;position: absolute;top: -70px;left: 50%;margin-left: -960px;z-index: -1;}
 .index .contact .contact_us{font-size: 48px;color: #ea5858;margin-top: 30px;color: #fff;}
 .index .contact .bg_box{width: 1000px;height: 536px;background-color: rgba(0,0,0,0.5);margin: 90px auto;padding: 68px 74px;}
 .index .contact .bg_box .hswh-title{font-size: 48px;color: #fff;text-align: center;}
@@ -52,3 +52,7 @@ a{text-decoration: none;}
 .index .contact .bg_box .click-more{width: 178px;height: 26px;float: right;margin-top: 40px;margin-right: 170px;}
 .index .contact .bg_box .click-more .click-text{font-size: 24px;line-height: 26px;color: #fff;float: left;}
 .index .contact .bg_box .click-more .click-icon{float: right;}
+
+/*  .index .footer{width: 100%;height: 370px;background-color: #c8c8c8;margin: 0 auto;}  */
+.index .footer .footer-bg{width: 1200px;height:270px;background-color: #c8c8c8;margin: 0 auto;}
+.index .footer .footer-bg .footer-logo{display: block;margin-top: 90px;}
