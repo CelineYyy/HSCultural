@@ -55,4 +55,25 @@ a{text-decoration: none;}
 
 /*  .index .footer{width: 100%;height: 370px;background-color: #c8c8c8;margin: 0 auto;}  */
 .index .footer .footer-bg{width: 1200px;height:270px;background-color: #c8c8c8;margin: 0 auto;}
-.index .footer .footer-bg .footer-logo{display: block;margin-top: 90px;}
+.index .footer .footer-bg .footer-logo{width: 154px;height: 154px;display: block;margin-top: 60px;float: left;}
+.index .footer .footer-bg .footer-line{width: 2px;height: 238px;background-color: #999;float: left;margin-left: 108px;margin-top: 15px;}
+.index .footer .footer-bg .footer-contact{width: 240px;height: 238px;float: left;margin-left: 108px;margin-top: 15px;}
+.index .footer .footer-bg .footer-contact .contact-us-title{font-size: 16px;font-weight:bold;}
+.index .footer .footer-bg .footer-contact .contact-us-eng{font-size: 16px;margin-top: 10px;}
+.index .footer .footer-bg .footer-contact .tel-number-title{font-size: 16px;font-weight:bold;margin-top: 45px;}
+.index .footer .footer-bg .footer-contact .service-tel-number{font-size: 16px;font-weight: bold;margin-top: 10px;}
+.index .footer .footer-bg .footer-contact .footer-add{font-size: 16px;margin-top: 35px;}
+.index .footer .footer-bg .footer-contact{width: 240px;height: 238px;float: left;margin-left: 108px;margin-top: 15px;}
+.index .footer .footer-bg .footer-about{width: 104px;height: 178px;margin-left: 108px;margin-top: 15px;float: left;}
+.index .footer .footer-bg .footer-about .about-us-title{font-size: 16px;font-weight:bold;}
+.index .footer .footer-bg .footer-about .about-us-eng{font-size: 16px;margin-top: 10px;}
+.index .footer .footer-bg .footer-about .about-us-info{font-size: 16px;margin-top: 35px;}
+.index .footer .footer-bg .footer-about .about-us-cul{font-size: 16px;margin-top: 25px;}
+.index .footer .footer-bg .footer-focus{position: relative;width: 188px;height: 238px;margin-top: 15px;float: right;;}
+.index .footer .footer-bg .footer-focus .focus-us-title{font-size: 16px;font-weight:bold;}
+.index .footer .footer-bg .footer-focus .focus-us-eng{font-size: 16px;margin-top: 10px;}
+.index .footer .footer-bg .footer-focus .qr-code{position: absolute;left: 0;bottom: 0}
+
+
+
+.index .copyright{width: 1200px;height: 80px;margin: 0 auto;color: #666;font-size: 16px;text-align: center;line-height: 80px;}
