@@ -83,5 +83,6 @@ a{text-decoration: none;}
 /*----- 关于我们start -----*/
 .about-us .banner{position: relative;}
 .about-us .banner .banner_logo{position: absolute;top:30px;left: 360px;}
-.about-us .heshi-tech .heshi-tech-bg{width: 100%;height: 1080px;margin: 0 auto;position: relative;}
+.about-us .heshi-tech{width: 100%;height: 1080px;}
+.about-us .heshi-tech .heshi-tech-bg{width:1920px;height: 1080px;background: url(../img/heshi_tech_bg.png) no-repeat; margin: 0 auto;position: relative;}
 .about-us .heshi-tech .heshi-tech-bg .tech-box{position: absolute;top: 0;left: 360px;width: 1200px;height: 1080px;background-color: #999;margin: 0 auto;}
