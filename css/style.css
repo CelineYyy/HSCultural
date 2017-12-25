@@ -87,3 +87,6 @@ a{text-decoration: none;}
 .about-us .heshi-tech{width: 1200px;height: 1080px;position: relative;margin: 0 auto;}
 .about-us .heshi-tech .heshi-tech-bg{display: block;position: absolute;left: 50%;top: 0;margin-left: -960px;}
 .about-us .heshi-tech .tech-box{height: 1080px;z-index: 999;position: absolute;top: 0;left: 0;}
+.about-us .heshi-tech .tech-box .heshi-tech-title{width: 162px;height: 50px;font-size: 40px;position: absolute;top: 220px;left: 0;}
+.about-us .heshi-tech .tech-box .heshi-tech-info{width: 612px;height: 848px;font-size: 20px;position: absolute;top: 400px;left: 0;}
+.about-us .heshi-tech .tech-box .heshi-tech-logo{position: absolute;top:480px;left: 730px;}
