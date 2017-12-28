@@ -84,9 +84,61 @@ a{text-decoration: none;}
 .about-us .banner{width: 1200px;height: 1080px;position: relative;margin: 0 auto;;}
 .about-us .banner .about-us-banner{width: 1920px;height: 1080px;position: absolute;display: block;top: 0;left: 50%;margin-left: -960px;}
 .about-us .banner .banner_logo{position: absolute;top:80px;left: 360px;z-index: 9}
+
 .about-us .heshi-tech{width: 1200px;height: 1080px;position: relative;margin: 0 auto;}
 .about-us .heshi-tech .heshi-tech-bg{display: block;position: absolute;left: 50%;top: 0;margin-left: -960px;}
 .about-us .heshi-tech .tech-box{height: 1080px;z-index: 999;position: absolute;top: 0;left: 0;}
 .about-us .heshi-tech .tech-box .heshi-tech-title{width: 162px;height: 50px;font-size: 40px;position: absolute;top: 220px;left: 0;}
-.about-us .heshi-tech .tech-box .heshi-tech-info{width: 612px;height: 848px;font-size: 20px;position: absolute;top: 400px;left: 0;}
+.about-us .heshi-tech .tech-box .heshi-tech-info{width: 612px;height: 648px;font-size: 20px;position: absolute;top: 400px;left: 0;}
 .about-us .heshi-tech .tech-box .heshi-tech-logo{position: absolute;top:480px;left: 730px;}
+
+.about-us .brand-summary .summary-box{width: 1200px;height: 1080px;margin: 0 auto;position: relative;}
+.about-us .brand-summary .summary-box .summary-title{width: 162px;height: 50px;font-size: 40px;position: absolute;top: 150px;left: 0;}
+.about-us .brand-summary .summary-box .summary-info{width: 500px;height: 620px;font-size: 20px;position: absolute;top: 320px;left: 0;}
+.about-us .brand-summary .summary-box .summary-pic{position: absolute;top: 160px;right: 0;}
+
+.about-us .brand-target{width: 1920px;height: 1080px;position: relative;margin: 0 auto;background-color: #f8f8f8;}
+.about-us .brand-target .target-box{width: 1200px;height: 1080px;position: absolute;top: 0;left: 50%;margin-left: -888px;}
+.about-us .brand-target .target-box .target-title{width: 162px;height: 50px;font-size: 40px;position: absolute;top: 154px;right: 336px;}
+.about-us .brand-target .target-box .target-info{width: 500px;height: 420px;font-size: 20px;position: absolute;top: 360px;right:0;}
+.about-us .brand-target .target-box .target-pic{position: absolute;top: 160px;left: 0;}
+
+.about-us .working-environment{width: 100%;height: 1080px;margin: 0 auto;position: relative;}
+.about-us .working-environment .work-bg{width: 1200px;height: 1080px;display: block;position: absolute;left: 50%;top: 0;margin-left: -604px;}
+.about-us .working-environment .work-box{width: 1200px;height: 1080px;position: absolute;top: 0;left: 50%;margin-left: -604px;}
+.about-us .working-environment .work-title{font-size: 40px;text-align: center;margin-top: 48px;}
+.about-us .working-environment .work-info{font-size: 20px;text-align: center;margin-top: 40px;}
+.about-us .working-environment .work-pic1{position: absolute;top: 280px;left: 0;}
+.about-us .working-environment .work-pic2{position: absolute;top: 280px;right:0;}
+.about-us .working-environment .work-pic3{position: absolute;top: 632px;right:0;}
+
+.about-us .working-pic .work-pic-box{width: 1200px;height: 1080px;margin: 0 auto;position: relative;}
+.about-us .working-pic .work-pic-box .work-pic4{position: absolute;top: 100px;left: 0;}
+.about-us .working-pic .work-pic-box .work-pic5{position: absolute;top: 200px;left:242px;}
+.about-us .working-pic .work-pic-box .work-pic6{position: absolute;top: 100px;left:484px;}
+.about-us .working-pic .work-pic-box .work-pic7{position: absolute;top: 200px;left:726px;}
+.about-us .working-pic .work-pic-box .work-pic8{position: absolute;top: 100px;left:968px;}
+.about-us .working-pic .work-pic-box .work-heshicultural-text{position: absolute;top: 350px;left:50px;}
+
+.about-us .footer{width: 100%;height: 270px;background-color: #c8c8c8;}
+.about-us .footer .footer-bg{width: 1200px;height:270px;background-color: #c8c8c8;margin: 0 auto;}
+.about-us .footer .footer-bg .footer-logo{width: 154px;height: 154px;display: block;margin-top: 60px;float: left;}
+.about-us .footer .footer-bg .footer-line{width: 2px;height: 238px;background-color: #999;float: left;margin-left: 108px;margin-top: 15px;}
+.about-us .footer .footer-bg .footer-contact{width: 240px;height: 238px;float: left;margin-left: 108px;margin-top: 15px;}
+.about-us .footer .footer-bg .footer-contact .contact-us-title{font-size: 16px;font-weight:bold;}
+.about-us .footer .footer-bg .footer-contact .contact-us-eng{font-size: 16px;margin-top: 10px;}
+.about-usindex .footer .footer-bg .footer-contact .tel-number-title{font-size: 16px;font-weight:bold;margin-top: 45px;}
+.about-us .footer .footer-bg .footer-contact .service-tel-number{font-size: 16px;font-weight: bold;margin-top: 10px;}
+.about-us .footer .footer-bg .footer-contact .footer-add{font-size: 16px;margin-top: 35px;}
+.about-us .footer .footer-bg .footer-contact{width: 240px;height: 238px;float: left;margin-left: 108px;margin-top: 15px;}
+.about-us .footer .footer-bg .footer-about{width: 104px;height: 178px;margin-left: 108px;margin-top: 15px;float: left;}
+.about-us .footer .footer-bg .footer-about .about-us-title{font-size: 16px;font-weight:bold;}
+.about-us .footer .footer-bg .footer-about .about-us-eng{font-size: 16px;margin-top: 10px;}
+.about-us .footer .footer-bg .footer-about .about-us-info{font-size: 16px;margin-top: 35px;}
+.about-us .footer .footer-bg .footer-about .about-us-cul{font-size: 16px;margin-top: 25px;}
+.about-us .footer .footer-bg .footer-focus{position: relative;width: 188px;height: 238px;margin-top: 15px;float: right;;}
+.about-us .footer .footer-bg .footer-focus .focus-us-title{font-size: 16px;font-weight:bold;}
+.about-us .footer .footer-bg .footer-focus .focus-us-eng{font-size: 16px;margin-top: 10px;}
+.about-us .footer .footer-bg .footer-focus .qr-code{position: absolute;left: 0;bottom: 0}
+
+.about-us .copyright{width: 1200px;height: 80px;margin: 0 auto;color: #666;font-size: 16px;text-align: center;line-height: 80px;}
