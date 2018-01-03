@@ -142,3 +142,19 @@ a{text-decoration: none;}
 .about-us .footer .footer-bg .footer-focus .qr-code{position: absolute;left: 0;bottom: 0}
 
 .about-us .copyright{width: 1200px;height: 80px;margin: 0 auto;color: #666;font-size: 16px;text-align: center;line-height: 80px;}
+/*----- 关于我们end -----*/
+
+/*----- 和十课程start -----*/
+.heshikecheng .header{width: 1200px;height: 197px;margin: 0 auto;}
+.heshikecheng .header .logo{text-align: center;padding-top: 18px;}
+.heshikecheng .header .nav {width: 480px;height: 80px;margin: 0 auto;}
+.heshikecheng .header .nav ul li{width: 56px;margin: 0 20px;float: left;line-height: 80px;text-align: center;}
+.heshikecheng .header .nav ul li a{font-size: 14px;}
+.heshikecheng .header .nav ul li a:link,.index .header .nav ul li a:visited{color:#333;}
+.heshikecheng .header .nav ul li a:hover,.index .header .nav ul li a:active{color:red;}
+
+.heshikecheng .banner{position: relative;width: 192200px;margin: 0 auto;}
+.heshikecheng .banner .banner-box{width: 1920px;height: 532px;margin: 0 auto;position: absolute;;}
+.heshikecheng .banner .banner-box .heshikecheng-banner{width: 100%;height: auto;position: absolute;top: 0;left: 0;}
+.heshikecheng .banner .banner-box .curriculum-text{position: absolute;top: 160px;left: 50%;}
+.heshikecheng .banner .banner-box .heshikecheng-title{position: absolute;top: 300px;left: 1040px;font-size: 40px;color: red;font-weight: solid;}
