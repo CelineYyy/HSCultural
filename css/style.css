@@ -153,10 +153,7 @@ a{text-decoration: none;}
 .heshikecheng .header .nav ul li a:link,.index .header .nav ul li a:visited{color:#333;}
 .heshikecheng .header .nav ul li a:hover,.index .header .nav ul li a:active{color:red;}
 
-.heshikecheng .banner{position: relative;margin: 0 auto;}
-.heshikecheng .banner .heshikecheng-banner{width: 100%;height: auto;position: absolute;top: 0;left: 0;}
-.heshikecheng .banner .curriculum-text{position: absolute;top: 160px;left: 50%;margin-left: -167px;}
-.heshikecheng .banner .heshikecheng-title{position: absolute;top: 300px;left: 50%;margin-left: -80px;font-size: 40px;color: red;font-weight: solid;}
+.heshikecheng .banner{width: 1920px;height: auto;margin: 0 auto;}
 
 .heshikecheng .list-bg{background-color: red;}
 .heshikecheng .list-bg .list-box{background-color: white;width: 1140px;height: 1270px;margin: 0 auto;padding: 30px;}
